@@ -6,11 +6,12 @@
               alt="Gorilla" 
               Width="200px" Height="400px"/>
              <p>Here is the link to where I found the picture.<a href="https://pixnio.com/fauna-animals/monkeys/monkey-gorilla-black" target="_blank">Click here.</a></p>
-            <br/>
+            <hr/>
         <img src="https://pixnio.com/free-images/2017/08/27/2017-08-27-10-39-04-1152x765.jpg"
               alt="Orangutan"
               Width="300px" Height="200px"/>
             <p>Here is the link to the picture I found.<a href="https://pixnio.com/art/art-draw-monochrome-portrait-animal-orangutan-ape-primate" target="_blank"> Click here.</a></p>
+            <hr/>
             <img src="https://www.stockvault.net/data/2017/04/19/234217/preview16.jpg"
                   alt="Chimpanzee"
                   Width="200px" Height="300px"/>
